@@ -1,0 +1,5 @@
+{
+  "javascript.format.enable": true,
+  "js/ts.implicitProjectConfig.checkJs": true,
+  "javascript.validate.enable": true // => required
+}
